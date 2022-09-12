@@ -59,3 +59,35 @@ function squareOrSquareRoot(array) {
 ------
 
 
+### Experience
+
+
++ **OAO "MoAZ" (MoAZ, JSC)**, supervisor
++ **OAO "MoAZ" (MoAZ, JSC)**, process engineer
++ **ZAO "Dobronom" (Dobronom, CJSC)**, clerk
++ **ZAO "Dobronom" (Dobronom, CJSC)**, engineer estimator
+
+
+------
+
+
+### Education
+
+
++ **Belarusian State University of Transport**
+    * Wagons and wagon facilities, mechanical engineer
++ **IT Shatle (IT courses)**
+    * HTML/CSS
+    * Javascript
++ [ItGid](https://itgid.info/course/javascript-2)
+    * Javascript 2.0
+
+
+------
+
+
+### Languages
+
+
++ **Russian** - native
++ **English** - A2
