@@ -41,3 +41,21 @@
 ------
 
 
+### Code Example
+
+
+```
+function squareOrSquareRoot(array) {
+    return array.map((item => {
+      let rootItem = Math.sqrt(item);
+      if (Number.isInteger(rootItem)){
+        return rootItem;
+      } else return item**2;
+    }));
+}
+```
+
+
+------
+
+
